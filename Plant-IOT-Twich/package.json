@@ -1,0 +1,11 @@
+{
+  "name": "plant-iot-twich",
+  "version": "1.0.0",
+  "description": "Bot para ver stats de IOT en Twich",
+  "main": "server.js",
+  "author": "ANovoa",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.8.3"
+  }
+}

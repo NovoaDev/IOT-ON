@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const Cfg = require('./Install/cfg')
+const Cfg = require('./Install/Cfg.js')
 const Client = new Discord.Client()
 const Prefix = '-'
 const Fs = require('fs')

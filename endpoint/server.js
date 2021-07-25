@@ -19,7 +19,7 @@ app.get('/lolat4z', (req, res) => {
 	)
 })
 
-app.get('/jatomas', (req, res) => {
+app.get('/stats', (req, res) => {
 	res.json(
 		{
 			tag: '#02',
