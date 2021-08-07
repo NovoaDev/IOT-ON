@@ -9,10 +9,10 @@ module.exports = {
 
 		switch (site) { 
 			case 'Jatomas':
-				EndPoint = 'http://127.0.0.1:3000/stats'
+				EndPoint = 'http://127.0.0.1:3001/jatomas'
 				break;
 			case 'Lolat4z':
-				EndPoint = 'http://192.168.1.154:5000/stats'
+				EndPoint = 'http://127.0.0.1:3001/lolat4z'
 				break;
 		}
 

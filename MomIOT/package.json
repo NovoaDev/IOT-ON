@@ -1,0 +1,12 @@
+{
+  "name": "passarella_momiot",
+  "version": "1.0.0",
+  "description": "Microservicio que usa mqtt para obtener datos de dispositivos iot",
+  "main": "server.js",
+  "author": "ANovoa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mqtt": "^4.2.8"
+  }
+}

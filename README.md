@@ -11,6 +11,11 @@ docker build -t ioton .
 
 docker run --name ioton --rm -d -p 4000:3000 ioton 
 
+# MONIOT
+docker build -t moniot .
+
+docker run --name moniot --rm -d -p 4000:3000 moniot 
+
 # Modo interactivo
 docker run -it -p 4000:3000 <im>
 
